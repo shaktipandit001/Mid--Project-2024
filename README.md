@@ -1,4 +1,4 @@
-# Data Analytics - Jan 2024
+# Data Analytics - Jan-June 2024
 ## Bootcamp Mid-project
 
 **Author:** Shakti
