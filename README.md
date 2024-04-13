@@ -9,11 +9,20 @@ During inspections of food facilities, health inspectors calculate a score based
 - High-risk: Specific violations directly related to the transmission of foodborne illnesses, adulteration of food products, and contamination of food-contact surfaces.
 - Moderate-risk: Specific violations posing a moderate risk to public health and safety.
 - Low-risk: Violations with low or no immediate risk to public health and safety.
+  
+How much of score they got,while doing Inspection and what Violation does affect getting inspection or not.
 
 The scorecard issued by the inspector is maintained at the food establishment and is available to the public in this dataset.
 
 ### Overview:
 This dataset provides information about the hygiene standards of restaurants, which is important for public awareness.
+
+### Finding insight in the Data:
+- The Inpection_score(responce result) , they pass or not(if they got more than 60 score or less than 60 score).
+- Which risk_category
+- Violation
+  
+
 
 ### Data Science Applications:
 This dataset, although compact, is ripe for a variety of data science explorations, including:
